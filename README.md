@@ -58,6 +58,19 @@ Raw Materials System:
 - Deliver To Drop Off Point And Earning (1 - 15 Random Raw Materials) 
 - Can Be Use To Purchase Weapon Body Parts (Weapon Crafting System Done)
 
+Loot System: 
+- Picking Up Animation
+- Cash (Only 20% Of Player Cash Can Be Looted)
+- Dessert Deagle 
+- 9MM 
+- Silenced 9MM 
+- Shotgun 
+- MP5 
+- Country Rifle 
+- Molotov
+- There Is A 1-Minute CoolDown Before You Can Loot Again
+- If The Player Is Part Of Police Faction He/She Cannot Be Looted
+
 # Not Done Yet: 
 Low Economy Price List And Salary List: 
 - Jobs, Businesses, Houses, Garages, Lands, ETC.
@@ -72,19 +85,6 @@ Player Related Items:
 - Bandages (For Bleeding) 
 - Vest Plate (For Armour)
 - When Using These Items There Is A 10-Second Timer Delay
-
-Loot System: 
-- Picking Up Animation
-- Cash (Only 20% Of Player Cash Can Be Looted)
-- Dessert Deagle 
-- 9MM 
-- Silenced 9MM 
-- Shotgun 
-- MP5 
-- Country Rifle 
-- Molotov
-- There Is A 1-Minute CoolDown Before You Can Loot Again
-- If The Player Is Part Of Police Faction He/She Cannot Be Looted
 
 Sanitation (Garbage Man Job): 
 - 10 TrashMaster Vehicles
