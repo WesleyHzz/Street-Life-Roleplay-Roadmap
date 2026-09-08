@@ -56,7 +56,7 @@ BlackMarket Items And Price List (Adjusted):
 Raw Materials System: 
 - /getmats ($500 Dollars) 
 - Deliver To Drop Off Point And Earning (1 - 15 Random Raw Materials) 
-- Can Be Use To Purchase Weapon Body Parts (To Do Weapon Crafting System)
+- Can Be Use To Purchase Weapon Body Parts (Weapon Crafting System Done)
 
 # Not Done Yet: 
 Low Economy Price List And Salary List: 
