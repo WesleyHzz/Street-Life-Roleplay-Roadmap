@@ -53,6 +53,11 @@ BlackMarket Items And Price List (Adjusted):
 - MP5 ($4,000 Dirty Money) 
 - Country Rifle ($10,000 Dirty Money)
 
+Raw Materials System: 
+- /getmats ($500 Dollars) 
+- Deliver To Drop Off Point And Earning (1 - 15 Random Raw Materials) 
+- Can Be Use To Purchase Weapon Body Parts (To Do Weapon Crafting System)
+
 # Not Done Yet: 
 Low Economy Price List And Salary List: 
 - Jobs, Businesses, Houses, Garages, Lands, ETC.
@@ -60,11 +65,6 @@ Low Economy Price List And Salary List:
 Stress System: 
 - When Running, Punching, Or Using Weapons It Will Increase Player Stress
 - Stress Can Be Reduced By Using Certain Items Like Cigars Or Staying Still
-
-Raw Materials System: 
-- /getmats ($500 Dollars) 
-- Deliver To Drop Off Point And Earning (1 - 15 Random Raw Materials) 
-- Can Be Use To Purchase Weapon Body Parts (To Do Weapon Crafting System)
 
 Player Related Items: 
 - Medkits (Full Heal) 
