@@ -71,6 +71,13 @@ Loot System:
 - There Is A 1-Minute CoolDown Before You Can Loot Again
 - If The Player Is Part Of Police Faction He/She Cannot Be Looted
 
+Recycle Area (Recycled Materials): 
+- Press 'Y' With Animation For 5-Seconds
+- Earn Recycled Materials (Up To 10 Recycled Materials) 
+- NPC Buyer (Sell Recycled Materials) 
+- Stock Per Area (5/5)
+- Area Respawn CoolDown (2 Minutes Back To 5/5)
+
 # Not Done Yet: 
 Low Economy Price List And Salary List: 
 - Jobs, Businesses, Houses, Garages, Lands, ETC.
@@ -95,13 +102,6 @@ Sanitation (Garbage Man Job):
 - Red TrashBin = Not Lootable
 - 5-10 Minutes CoolDown To Refill Trashbins Back To Green
 - Job Salary Random ($700 - $1,200)
-
-Recycle Area (Recycled Materials): 
-- Press 'Y' With Animation For 5-Seconds
-- Earn Recycled Materials (Up To 10 Recycled Materials) 
-- NPC Buyer (Sell Recycled Materials) 
-- Stock Per Area (5/5)
-- Area Respawn CoolDown (2 Minutes Back To 5/5)
 
 Market System (For Food Factions): 
 - /buyingredients To Buy Ingredients 
