@@ -88,6 +88,18 @@ Sanitation (Garbage Man Job):
 - 5-10 Minutes CoolDown To Refill Trashbins Back To Green
 - Job Salary Random ($700 - $1,200)
 
+Mechanic Faction (Adjustments):
+- 1 Nitro = 50 Recycled Materials
+- 1 Roof Vent = 50 Recycled Materials
+- 1 Exhaust = 50 Recycled Materials
+- 1 Stereo = 50 Recycled Materials
+- 1 Hydraulics = 50 Recycled Materials
+- 1 Side Skirt = 50 Recycled Materials
+- 1 Wheels = 50 Recycled Materials
+- 1 Spoilers = 50 Recycled Materials
+- 1 Bumpers = 50 Recycled Materials
+- When Player Move While Doing Operation It Will Be Cancelled Automatically
+
 # Not Done Yet: 
 Low Economy Price List And Salary List: 
 - Jobs, Businesses, Houses, Garages, Lands, ETC.
@@ -111,18 +123,6 @@ Market System (For Food Factions):
 - Cucumber (Burger) ($25 = 1 Cucumber) 
 - Cocoa Beans (Cookies) ($25 = 1 Cocoa Beans) 
 - Coffee Beans (Coffee) ($50 = 1 Coffee Beans)
-
-Mechanic Faction (Adjustments):
-- 1 Nitro = 50 Recycled Materials
-- 1 Roof Vent = 50 Recycled Materials
-- 1 Exhaust = 50 Recycled Materials
-- 1 Stereo = 50 Recycled Materials
-- 1 Hydraulics = 50 Recycled Materials
-- 1 Side Skirt = 50 Recycled Materials
-- 1 Wheels = 50 Recycled Materials
-- 1 Spoilers = 50 Recycled Materials
-- 1 Bumpers = 50 Recycled Materials
-- When Player Move While Doing Operation It Will Be Cancelled Automatically
 
 Burger Faction: 
 - Burger (+25% Add To Hunger) (Ingredients: 1 Lettuce, 1 Tomato, 1 Onion, 1 Cucumber) 
