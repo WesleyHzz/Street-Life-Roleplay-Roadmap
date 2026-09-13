@@ -78,6 +78,16 @@ Recycle Area (Recycled Materials):
 - Stock Per Area (5/5)
 - Area Respawn CoolDown (2 Minutes Back To 5/5)
 
+Sanitation (Garbage Man Job): 
+- 10 TrashMaster Vehicles
+- Maximum 15 Collected Trash Bags Per Vehicle
+- /dumpster (15-Seconds With Animation) 
+- Green TrashBin = Not Looted Yet
+- Orange TrashBin = Looted But Can Still Be Looted
+- Red TrashBin = Not Lootable
+- 5-10 Minutes CoolDown To Refill Trashbins Back To Green
+- Job Salary Random ($700 - $1,200)
+
 # Not Done Yet: 
 Low Economy Price List And Salary List: 
 - Jobs, Businesses, Houses, Garages, Lands, ETC.
@@ -92,16 +102,6 @@ Player Related Items:
 - Bandages (For Bleeding) 
 - Vest Plate (For Armour)
 - When Using These Items There Is A 10-Second Timer Delay
-
-Sanitation (Garbage Man Job): 
-- 10 TrashMaster Vehicles
-- Maximum 15 Collected Trash Bags Per Vehicle
-- /dumpster (15-Seconds With Animation) 
-- Green TrashBin = Not Looted Yet
-- Orange TrashBin = Looted But Can Still Be Looted
-- Red TrashBin = Not Lootable
-- 5-10 Minutes CoolDown To Refill Trashbins Back To Green
-- Job Salary Random ($700 - $1,200)
 
 Market System (For Food Factions): 
 - /buyingredients To Buy Ingredients 
