@@ -100,21 +100,6 @@ Mechanic Faction (Adjustments):
 - 1 Bumpers = 50 Recycled Materials
 - When Player Move While Doing Operation It Will Be Cancelled Automatically
 
-# Not Done Yet: 
-Low Economy Price List And Salary List: 
-- Jobs, Businesses, Houses, Garages, Lands, ETC.
-
-Stress System: 
-- When Running, Punching, Or Using Weapons It Will Increase Player Stress
-- Stress Can Be Reduced By Using Certain Items Like Cigars Or Staying Still
-
-Player Related Items: 
-- Medkits (Full Heal) 
-- PainKillers (For Broken Leg) 
-- Bandages (For Bleeding) 
-- Vest Plate (For Armour)
-- When Using These Items There Is A 10-Second Timer Delay
-
 Market System (For Food Factions): 
 - /buyingredients To Buy Ingredients 
 - Lettuce (Burger) ($25 = 1 Lettuce) 
@@ -136,6 +121,21 @@ Coffee Faction:
 - Coffee Flavors (Americano, Espresso, Cappucino, Cafe Latte, Mocha, Macchiato, Flat White) 
 - Animation For 10-Seconds Per Pieces
 - Sellable by Coffee Faction
+
+# Not Done Yet: 
+Low Economy Price List And Salary List: 
+- Jobs, Businesses, Houses, Garages, Lands, ETC.
+
+Stress System: 
+- When Running, Punching, Or Using Weapons It Will Increase Player Stress
+- Stress Can Be Reduced By Using Certain Items Like Cigars Or Staying Still
+
+Player Related Items: 
+- Medkits (Full Heal) 
+- PainKillers (For Broken Leg) 
+- Bandages (For Bleeding) 
+- Vest Plate (For Armour)
+- When Using These Items There Is A 10-Second Timer Delay
 
 Gang System (Adjustments): 
 - Public Stash? (No Description) 
